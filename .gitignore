@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model weights
+*.pth
+
+# Data
+Data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
