@@ -131,6 +131,8 @@ Highlights regions influencing predictions
 
 Provides insight into feature importance
 
+<img width="1495" height="584" alt="Screenshot 2026-01-02 115530" src="https://github.com/user-attachments/assets/ab5c236f-b5a7-4a88-b8b7-d7e46761df34" />
+
 5️⃣ Interactive Visualization (Optional)
 
 A minimal Streamlit app is included to:
